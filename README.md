@@ -1,5 +1,3 @@
-# Techniques-and-Insights-for-Improved-Cardiovascular-Health
-
 # Cardiovascular Disease Prediction Project
 
 This project aims to predict the likelihood of cardiovascular disease using patient data. The dataset consists of various health indicators such as age, gender, height, weight, blood pressure readings, cholesterol levels, glucose levels, and lifestyle habits (e.g., smoking, alcohol consumption, physical activity).
